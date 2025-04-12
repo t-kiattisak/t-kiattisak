@@ -3,8 +3,8 @@
 🚀 Full-Stack Developer passionate about performance, clean architecture, and scalable systems.
 
 ### 🛠 Tech Stack
-- **Frontend**: React, Next.js, Vue, Nuxt, Svelte, Flutter, React Native
-- **Backend**: Go (Fiber), Node.js (NestJS), Elysian, Hono
+- **Frontend**: React, Next.js, Vue, Nuxt, Angular, Svelte, Flutter, React Native
+- **Backend**: Go, Node.js (NestJS), Elysian, Hono, Typescript
 - **Database**: MySQL, PostgreSQL
 - **Cache / In-Memory**: Redis
 - **Tools**: Docker, GitHub Actions, Vite
