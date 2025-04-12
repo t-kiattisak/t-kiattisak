@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I’m Kiattisak 👋
 
-<!--
-**t-kiattisak/t-kiattisak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack Developer passionate about performance, clean architecture, and scalable systems.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Frontend**: React, Next.js, Vue, Nuxt, Svelte, Flutter, React Native
+- **Backend**: Go (Fiber), Node.js (NestJS), Elysian, Hono
+- **Database**: MySQL, PostgreSQL
+- **Cache / In-Memory**: Redis
+- **Tools**: Docker, GitHub Actions, Vite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📦 Featured Projects
+- [Devhunt](https://github.com/t-kiattisak/devhunt) – Voting platform built with Go & Redis
+- [Classy-TS](https://github.com/t-kiattisak/classy-ts) – Tailwind className merge utility with plugin support
+
+📫 Reach me: t.kiattisak.j@gmail.com
