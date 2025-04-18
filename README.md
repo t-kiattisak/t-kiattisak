@@ -18,8 +18,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-kiattisak&layout=compact&theme=radical" />
-  <img src="https://github-profile-trophy.vercel.app/?username=t-kiattisak&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-kiattisak&layout=compact&theme=radical" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=t-kiattisak&theme=radical" width="49%" />
 </div>
 ---
 
