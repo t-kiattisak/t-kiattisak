@@ -17,9 +17,10 @@
 
 ### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t-kiattisak&layout=compact&theme=radical)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=t-kiattisak&show_icons=true&theme=radical)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-kiattisak&layout=compact&theme=radical" />
+  <img src="https://github-profile-trophy.vercel.app/?username=t-kiattisak&theme=radical" />
+</div>
 ---
 
 📫 Reach me: t.kiattisak.j@gmail.com
