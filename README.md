@@ -36,14 +36,14 @@ I'm a full-stack developer who’s still learning every day.
 ---
 
 ### 🤝 Connect with me
-
-<p align="left">
+<div align="left">
+  <a href="mailto:t.kiattisak.j@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" />
+  </a>&nbsp;
   <a href="https://www.linkedin.com/in/kiattisak-jomram-642095352" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/LinkedIn.svg" width="40" alt="LinkedIn"/>
-  </a>
+    <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/LinkedIn.svg" width="40" />
+  </a>&nbsp;
   <a href="https://www.instagram.com/t_kiatti" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Instagram.svg" width="40" alt="Instagram"/>
+    <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Instagram.svg" width="40" />
   </a>
-</p>
-
-📫 Reach me: t.kiattisak.j@gmail.com
+</div>
