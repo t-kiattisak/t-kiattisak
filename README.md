@@ -7,15 +7,7 @@ I'm a full-stack developer who’s still learning every day.
 
 ### 🛠 Tech Stack
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,angular,svelte,flutter" height="40" />
-  <img src="https://skillicons.dev/icons?i=ts,vite,graphql,nodejs,go,nestjs" height="40" />
-  <img src="https://skillicons.dev/icons?i=elysia,mysql,postgres,sqlite,mongodb,redis" height="40" />
-  <img src="https://skillicons.dev/icons?i=prisma,firebase,jest,cypress,vitest,docker,githubactions" height="40" />
-  <img src="https://skillicons.dev/icons?i=git,github,notion" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" />
-</div>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,angular,svelte,flutter,ts,vite,graphql,nodejs,laravel,go,nestjs,elysia,mysql,postgres,sqlite,mongodb,redis,prisma,firebase,jest,cypress,vitest,docker,githubactions,git,github,notion" />
 
 ---
 
