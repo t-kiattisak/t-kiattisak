@@ -7,7 +7,7 @@ I'm a full-stack developer who’s still learning every day.
 
 ### 🛠 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,angular,svelte,flutter,ts,vite,graphql,nodejs,laravel,go,nestjs,elysia,mysql,postgres,sqlite,mongodb,redis,prisma,firebase,jest,cypress,vitest,docker,githubactions,git,github,notion" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,angular,svelte,flutter,ts,cs,dotnet,vite,graphql,nodejs,laravel,go,nestjs,elysia,mysql,postgres,sqlite,mongodb,redis,prisma,firebase,jest,cypress,vitest,docker,githubactions,git,github,notion" />
 
 ---
 
