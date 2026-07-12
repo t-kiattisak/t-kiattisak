@@ -13,6 +13,7 @@ I'm a full-stack developer who’s still learning every day.
 
 ### 📦 Featured Projects
 
+- [image-processor-worker](https://github.com/t-kiattisak/image-processor-worker) – High-performance background image processing service powered by Node.js, TypeScript, Sharp, and BullMQ (Redis) featuring strict memory management and concurrency control.
 - [react-native-incoming-call](https://github.com/t-kiattisak/react-native-incoming-call) – Android full-screen incoming call notification utility for React Native powered by Nitro Modules
 - [Devhunt](https://github.com/t-kiattisak/devhunt) – Voting platform built with Go & Redis  
 - [Classy-TS](https://github.com/t-kiattisak/classy-ts) – Tailwind className merge utility with plugin support
