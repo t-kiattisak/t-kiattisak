@@ -1,6 +1,6 @@
-# Hi there, I’m Kiattisak 👋
+# Hi there, I'm Kiattisak 👋
 
-I'm a full-stack developer who’s still learning every day.  
+I'm a full-stack developer who's still learning every day.  
 📚 I build things to understand them better — and share what I learn along the way.
 
 ---
@@ -13,9 +13,10 @@ I'm a full-stack developer who’s still learning every day.
 
 ### 📦 Featured Projects
 
-- [image-processor-worker](https://github.com/t-kiattisak/image-processor-worker) – High-performance background image processing service powered by Node.js, TypeScript, Sharp, and BullMQ (Redis) featuring strict memory management and concurrency control.
+- [react-native-otp-input-confirm](https://github.com/t-kiattisak/react-native-otp-input-confirm) – Headless-friendly OTP / PIN input for React Native with theming, confirmation flow, SMS autofill, and clean architecture
 - [react-native-incoming-call](https://github.com/t-kiattisak/react-native-incoming-call) – Android full-screen incoming call notification utility for React Native powered by Nitro Modules
-- [Devhunt](https://github.com/t-kiattisak/devhunt) – Voting platform built with Go & Redis  
+- [image-processor-worker](https://github.com/t-kiattisak/image-processor-worker) – High-performance background image processing service powered by Node.js, TypeScript, Sharp, and BullMQ (Redis) featuring strict memory management and concurrency control
+- [Devhunt](https://github.com/t-kiattisak/devhunt) – Voting platform built with Go & Redis
 - [Classy-TS](https://github.com/t-kiattisak/classy-ts) – Tailwind className merge utility with plugin support
 
 ---
@@ -30,6 +31,7 @@ I'm a full-stack developer who’s still learning every day.
 ---
 
 ### 🤝 Connect with me
+
 <div align="left">
   <a href="mailto:t.kiattisak.j@gmail.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" />
